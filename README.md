@@ -1,2 +1,3 @@
 # SparksInternshipTask1
-A Simple bank website using html,css,javascript,php and mysql
+A Simple bank website.
+This project is made using HTML,CSS, JavaScript, PHP and MySQL.
